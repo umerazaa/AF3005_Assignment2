@@ -35,6 +35,9 @@ Install the required packages:
 
 pip install streamlit pandas plotly requests streamlit-lottie
 
+Link for the App on Streamlit: https://af3005assignment2-gbgkmflbjlgxhdzdfap2ne.streamlit.app/ 
+
+
 Run the application:
 
 streamlit run Assignment2.py
